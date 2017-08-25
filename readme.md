@@ -1,2 +1,2 @@
-# Anciet dragon
+# Ancient dragon
 > Has unkown powers, makes you a 10x developer.
